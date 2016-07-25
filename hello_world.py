@@ -6,3 +6,4 @@
 # History:                 2016.7.25
 
 print("Hello, World!")
+print("It's version 2")
